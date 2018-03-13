@@ -6,4 +6,4 @@ y = np.sin(x)
 
 plt.figure()
 plt.plot(x, y)
-plt.show()
+plt.savefig("graf.pdf")
